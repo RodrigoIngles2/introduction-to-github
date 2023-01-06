@@ -9,3 +9,8 @@ and this is a normal line
 :boom:
 
 ![boom](https://memes.co.in/memes/update/uploads/2021/12/InShot_20211209_222013681-768x768.jpg)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
